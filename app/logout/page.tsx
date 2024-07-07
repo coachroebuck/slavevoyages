@@ -1,3 +1,3 @@
 export default function Page() {
-  return <h1>Search Page</h1>
+  return <h1>Logout</h1>
 }
